@@ -63,6 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\RigifyToUnity\Scripts\Editor\RigifyToUnity.cs" />
+    <Compile Include="Assets\RigifyToUnity\Scripts\Editor\RigifyToUnityImportPreferencesWindow.cs" />
+    <Compile Include="Assets\RigifyToUnity\Scripts\Editor\RigifyToUnityPrefs.cs" />
     <Compile Include="Assets\Yuponic\YuME\Editor\Utils\YuME_MapManagerUI.cs" />
     <Compile Include="Assets\Yuponic\YuME\Editor\Utils\YuME_brushFunctions.cs" />
     <Compile Include="Assets\Yuponic\YuME\Editor\Utils\YuME_customBrushFunctions.cs" />

@@ -73,6 +73,9 @@
     <Compile Include="Assets\Yuponic\YuME\Scripts\YuME_tileGizmo.cs" />
     <Compile Include="Assets\Yuponic\YuME\Scripts\YuME_tilesetData.cs" />
     <Compile Include="Assets\playerMove.cs" />
+    <Compile Include="Assets\zombieScript.cs" />
+    <None Include="Assets\RigifyToUnity\Readme.txt" />
+    <None Include="Assets\RigifyToUnity\Release Notes.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
